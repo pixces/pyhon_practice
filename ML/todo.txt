@@ -1,0 +1,10 @@
+- libraries
+    - Numpy
+    - Pandas
+    - MatPlotLib
+    - Scikit-Learn ( algos )
+
+Jupyter for code writing
+
+data set
+- Kaggle
